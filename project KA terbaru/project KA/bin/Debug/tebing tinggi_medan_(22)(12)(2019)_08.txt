@@ -1,0 +1,4 @@
+Jadwal Kereta Api dari tebing tinggi ke medan pada Tanggal 22/12/2019 dan jam 08:00 - 10:00:
+
+angel, 2, D2, NN4160
+sara, 2, C2, RD4553

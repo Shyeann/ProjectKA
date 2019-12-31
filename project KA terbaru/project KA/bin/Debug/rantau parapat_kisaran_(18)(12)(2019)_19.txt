@@ -1,0 +1,4 @@
+Jadwal Kereta Api dari rantau parapat ke kisaran pada Tanggal 18/12/2019 dan jam 19:00 - 21:00:
+
+kara, 2, D3, RH2252
+kinan, 3, D2, CP4068

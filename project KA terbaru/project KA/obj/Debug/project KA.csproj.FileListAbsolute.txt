@@ -1,0 +1,14 @@
+D:\Mata kuliah\semester3\Pemrograman c#\project KA terbaru\project KA\obj\Debug\project KA.csprojAssemblyReference.cache
+D:\Mata kuliah\semester3\Pemrograman c#\project KA terbaru\project KA\obj\Debug\project KA.csproj.CoreCompileInputs.cache
+D:\Mata kuliah\semester3\Pemrograman c#\project KA terbaru\project KA\bin\Debug\project KA.exe.config
+D:\Mata kuliah\semester3\Pemrograman c#\project KA terbaru\project KA\bin\Debug\project KA.exe
+D:\Mata kuliah\semester3\Pemrograman c#\project KA terbaru\project KA\bin\Debug\project KA.pdb
+D:\Mata kuliah\semester3\Pemrograman c#\project KA terbaru\project KA\obj\Debug\project KA.exe
+D:\Mata kuliah\semester3\Pemrograman c#\project KA terbaru\project KA\obj\Debug\project KA.pdb
+D:\Kuliah\Semester 3\c#\Tugas Kelompok\fix\project KA terbaru\project KA\bin\Debug\project KA.exe.config
+D:\Kuliah\Semester 3\c#\Tugas Kelompok\fix\project KA terbaru\project KA\bin\Debug\project KA.exe
+D:\Kuliah\Semester 3\c#\Tugas Kelompok\fix\project KA terbaru\project KA\bin\Debug\project KA.pdb
+D:\Kuliah\Semester 3\c#\Tugas Kelompok\fix\project KA terbaru\project KA\obj\Debug\project KA.csprojAssemblyReference.cache
+D:\Kuliah\Semester 3\c#\Tugas Kelompok\fix\project KA terbaru\project KA\obj\Debug\project KA.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\c#\Tugas Kelompok\fix\project KA terbaru\project KA\obj\Debug\project KA.exe
+D:\Kuliah\Semester 3\c#\Tugas Kelompok\fix\project KA terbaru\project KA\obj\Debug\project KA.pdb

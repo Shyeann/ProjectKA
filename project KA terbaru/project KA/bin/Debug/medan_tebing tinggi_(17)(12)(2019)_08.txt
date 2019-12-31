@@ -1,0 +1,6 @@
+Jadwal Kereta Api dari medan ke tebing tinggi pada Tanggal 17/12/2019 dan jam 08:00 - 10:00:
+
+shelly, 3, A2, RX8239
+steven, 2, A3, PE6146
+vena, 2, A2, EX9416
+Angela, 2, C9, LV4008

@@ -1,0 +1,11 @@
+shelly,medan,tebing tinggi,17/12/2019,08:00 - 10:00,3,A2,RX8239
+steven,medan,tebing tinggi,17/12/2019,08:00 - 10:00,2,A3,PE6146
+vena,medan,tebing tinggi,17/12/2019,08:00 - 10:00,2,A2,EX9416
+kara,rantau parapat,kisaran,18/12/2019,19:00 - 21:00,2,D3,RH2252
+kinan,rantau parapat,kisaran,18/12/2019,19:00 - 21:00,3,D2,CP4068
+vera,tebing tinggi,medan,18/12/2019,13:00 - 15:00,2,D2,QK4411
+kate,medan,siantar,18/12/2019,13:00 - 15:00,3,D1,FU4894
+james,medan,rantau parapat,17/12/2019,19:00 - 21:00,3,B9,AZ3107
+angela,medan,tebing tinggi,17/12/2019,08:00 - 10:00,2,C9,LV4008
+angel,tebing tinggi,medan,22/12/2019,08:00 - 10:00,2,D2,NN4160
+sara,tebing tinggi,medan,22/12/2019,08:00 - 10:00,2,C2,RD4553
